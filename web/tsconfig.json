@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "system",
+    "strict": true,
+    "esModuleInterop": true,
+    "outFile": "index.js"
+  },
+  "include": [
+    "index.ts"
+  ]
+}
