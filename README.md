@@ -29,7 +29,7 @@ Below are preview images of the application in action:
 |------------------------|---------------------|-------------|
 | ![Camera Preview](screenshots/android_camera.png) | ![Edge Detection](screenshots/android_edge.png) | ![Web View](screenshots/web_view.png) |
 
-> Replace the above image paths with your real ones, or drag-and-drop screenshots into GitHub’s README editor to auto-host them.
+
 
 ---
 
