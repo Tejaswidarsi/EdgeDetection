@@ -27,7 +27,7 @@ Below are preview images of the application in action:
 
 | Android Camera Preview | Edge Detection View | Web Viewer |
 |------------------------|---------------------|-------------|
-| ![Camera Preview](screenshots/Screenshot%202025-10-07%20232753.png) | ![Edge Detection](screenshots/android_edge.png) | ![Web View](screenshots/web_view.png) |
+| ![Camera Preview]() | ![Edge Detection](screenshots/android_edge.png) | ![Web View](screenshots/Screenshot%202025-10-07%20232753.png) |
 
 
 
